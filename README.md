@@ -1,4 +1,4 @@
-# Puzzle Game
+# Maze Game
 
 <p align="center">
 <img src="git_images/maze2.png" width="400" height="400">
